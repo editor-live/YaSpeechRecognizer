@@ -1,0 +1,12 @@
+obj\Debug\protos\yandex\cloud\ai\stt\v3/SttService.cs \
+obj\Debug\protos\yandex\cloud\ai\stt\v3/SttServiceGrpc.cs: protos/yandex/cloud/ai/stt/v3/stt.proto\
+ protos/google/api/http.proto\
+ C:/Users/Editor/OneDrive/Рабочий стол/YaSpeechRecognizer/packages/Grpc.Tools.2.60.0/build/native/include/google/protobuf/descriptor.proto\
+ protos/google/api/annotations.proto\
+ protos/yandex/cloud/validation.proto\
+ protos/yandex/cloud/api/operation.proto\
+ C:/Users/Editor/OneDrive/Рабочий стол/YaSpeechRecognizer/packages/Grpc.Tools.2.60.0/build/native/include/google/protobuf/any.proto\
+ protos/google/rpc/status.proto\
+ C:/Users/Editor/OneDrive/Рабочий стол/YaSpeechRecognizer/packages/Grpc.Tools.2.60.0/build/native/include/google/protobuf/timestamp.proto\
+ protos/yandex/cloud/operation/operation.proto\
+ protos/yandex/cloud/ai/stt/v3/stt_service.proto

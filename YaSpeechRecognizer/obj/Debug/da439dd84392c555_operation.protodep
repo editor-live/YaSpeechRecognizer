@@ -1,0 +1,4 @@
+obj\Debug\protos\yandex\cloud\operation/Operation.cs: C:/Users/Editor/OneDrive/Рабочий стол/YaSpeechRecognizer/packages/Grpc.Tools.2.60.0/build/native/include/google/protobuf/any.proto\
+ protos/google/rpc/status.proto\
+ C:/Users/Editor/OneDrive/Рабочий стол/YaSpeechRecognizer/packages/Grpc.Tools.2.60.0/build/native/include/google/protobuf/timestamp.proto\
+ protos/yandex/cloud/operation/operation.proto
